@@ -1,0 +1,5 @@
+🌸 In Terraform you will have at least 3 configuration files for your project:
+1. main.tf 
+2. variables.tf 
+3. outputs.tf 
+

@@ -1,0 +1,16 @@
+🌸 C O M M A N D S : 
+terraform init - This will initialize the Terraform 
+terraform plan - This will show you the plan of the resources to be created 
+terraform apply - This will apply your template to the provider and create the resources
+
+🌸 This will automatically say yes and finalize the apply without needind to specify -yes
+terraform apply -auto-approve 
+
+🌸 Will help you formatting the template
+terraform fmt  
+
+🌸 To see a visualization 
+terraform graph > base.dot 
+
+🌸 If resources modified outside of Terraform and state is not current 
+terraform refresh 
